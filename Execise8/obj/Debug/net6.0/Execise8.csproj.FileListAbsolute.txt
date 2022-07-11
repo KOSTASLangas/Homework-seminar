@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\bin\Debug\net6.0\Execise8.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\bin\Debug\net6.0\Execise8.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\bin\Debug\net6.0\Execise8.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\bin\Debug\net6.0\Execise8.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\bin\Debug\net6.0\Execise8.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\refint\Execise8.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\Execise8.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Новая папка (4)\Homework\Execise8\obj\Debug\net6.0\ref\Execise8.dll
